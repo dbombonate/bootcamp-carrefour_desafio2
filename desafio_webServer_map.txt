@@ -1,0 +1,6 @@
+1 - Atualizar o servidor;
+2 - Instalar o apache2;
+3 - Instalar o unzip;
+4 - Baixar a aplicação em https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretorio tmp
+5 - Copiar os arquivos da aplicação para diretório padrão do apache
+6 - Enviar o script para o GitHub
