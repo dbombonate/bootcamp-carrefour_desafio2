@@ -6,7 +6,7 @@ apt update
 
 echo "Instalação do Apache e Unzip.........."
 
-apt install apache2 unzip
+apt install apache2 unzip -y
 
 echo "Baixando aplicação no tmp............."
 
